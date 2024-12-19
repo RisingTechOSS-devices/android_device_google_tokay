@@ -7,5 +7,9 @@
     "repository": "vendor_google_tokay",
     "branch": "fifteen",
     "target_path": "vendor/google/tokay"
+  },
+  {
+    "repository": "packages_apps_PixelParts",
+    "target_path": "packages/apps/PixelParts"
   }
 ]
